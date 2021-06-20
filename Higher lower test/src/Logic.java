@@ -92,5 +92,6 @@ public class Logic {
 
 	int getGamemode() {
 		return gamemode;
+		
 	}
 }

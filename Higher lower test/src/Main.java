@@ -1,7 +1,5 @@
 
 public class Main   {
-	
-	// I'm trying to use git repositories and it worked!
 
 	public static void main(String[] args) {
 
